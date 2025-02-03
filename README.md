@@ -16,7 +16,7 @@
 📚 **Technical Skills**
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL.
 - **Data Visualization:**  Power BI, Matplotlib, Seaborn.
-- **Databases:** oracle. 
+- **Databases:** Oracle,MySQL,postgreSQL.
 - **Excel:** Pivot Tables, VLOOKUP, Macros, Dashboarding.
 
 ---
@@ -28,12 +28,12 @@
    - 📊 Created interactive visualizations for business insights.
    - 📌 Identified trends to optimize sales strategy.
 
-🔹 **[SQL Data Exploration - Customer Insights](#)**
+🔹 **[SQL Data Exploration - Music Store Analysis](#)**
    - 🛢️ Queried large datasets using advanced SQL techniques.
    - 🔍 Performed joins, aggregations, and window functions.
    - 💡 Derived key insights into customer behavior and retention.
 
-🔹 **[Power BI - Business Performance](#)**
+🔹 **[Power BI - HR Analysis ](#)**
    - 📈 Designed an interactive dashboard to track business KPIs.
    - 🎯 Highlighted trends and actionable insights for decision-makers.
    - 🖥️ Improved data storytelling with dynamic visuals.
@@ -43,7 +43,7 @@
 📩 **Let's Connect!**
 🌐 [Portfolio Website](#) | 
 
-💼 [LinkedIn]https://www.linkedin.com/in/bhusal-sakshi-8b8375291?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNtvlDuA0SqKhdJkn9JvELQ%3D%3D
+💼 [LinkedIn](https://www.linkedin.com/in/bhusal-sakshi-8b8375291?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BX4yJGngJRnqg1Emqke1huQ%3D%3D)
 
 | 📧 [Email](mailto:your.email@example.com)
 
