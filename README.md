@@ -14,11 +14,10 @@
 ---
 
 📚 **Technical Skills**
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
-- **Data Visualization:**  Power BI, Matplotlib, Seaborn
-- **Databases:** oracle 
-- **Excel:** Pivot Tables, VLOOKUP, Macros, Dashboarding
-- **Statistics:** Hypothesis Testing, Regression Analysis, A/B Testing
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL.
+- **Data Visualization:**  Power BI, Matplotlib, Seaborn.
+- **Databases:** oracle. 
+- **Excel:** Pivot Tables, VLOOKUP, Macros, Dashboarding.
 
 ---
 
@@ -34,7 +33,7 @@
    - 🔍 Performed joins, aggregations, and window functions.
    - 💡 Derived key insights into customer behavior and retention.
 
-🔹 **[Power   BI - Business Performance](#)**
+🔹 **[Power BI - Business Performance](#)**
    - 📈 Designed an interactive dashboard to track business KPIs.
    - 🎯 Highlighted trends and actionable insights for decision-makers.
    - 🖥️ Improved data storytelling with dynamic visuals.
