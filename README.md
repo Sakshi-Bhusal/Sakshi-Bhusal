@@ -45,7 +45,7 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/bhusal-sakshi-8b8375291?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BX4yJGngJRnqg1Emqke1huQ%3D%3D)
 
-| 📧 [Email](mailto:your.email@example.com)
+| 📧 [Email] - sakshibhusal9597@gmail.com
 
 ---
 
