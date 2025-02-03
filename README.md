@@ -42,7 +42,7 @@
 ---
 
 📩 **Let's Connect!**
-🌐 [Portfolio Website](#) | 💼 [LinkedIn](#) | 📧 [Email](mailto:your.email@example.com)
+🌐 [Portfolio Website](#) | 💼 [LinkedIn](#https://www.linkedin.com/in/bhusal-sakshi-8b8375291?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNtvlDuA0SqKhdJkn9JvELQ%3D%3D) | 📧 [Email](mailto:your.email@example.com)
 
 ---
 
